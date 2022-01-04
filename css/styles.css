@@ -2,9 +2,14 @@ body
 {
     color: #333;
     text-align: center;
+<<<<<<< HEAD
 
     font-family: "Arial";
  
+=======
+    font-family: Courier;
+    font-weight: bold;
+>>>>>>> cabecera
     font-size: 16px;
     margin: 0;
     padding: 0;
